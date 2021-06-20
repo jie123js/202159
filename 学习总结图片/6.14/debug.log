@@ -1,2 +1,12 @@
 [0615/190640:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [0615/190642:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/192948:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/192951:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/192951:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/224800:INFO:http_cache_transaction.cc(72)] IgnoreZeroCacheError: 0
+[0618/003324:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0618/003329:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0618/003402:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0618/003407:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0618/182009:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0619/041611:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
